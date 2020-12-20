@@ -1,0 +1,41 @@
+header{
+    display: none;
+}
+nav {
+    display: none;
+}
+
+footer{
+    display: none;
+}
+
+th:last-child{
+    display: none;
+}
+td:last-child{
+    display: none;
+}
+
+.a-znamkovani{
+    display: none;
+}
+
+td, th, tbody{
+    font-size: 2.5vw;
+}
+
+#znamka{
+    color: black;
+}
+
+.vysvetlivky{
+    display:none;
+}
+
+#posledni{
+    display: table-cell;
+}
+
+.zak{
+    display: none;
+}
